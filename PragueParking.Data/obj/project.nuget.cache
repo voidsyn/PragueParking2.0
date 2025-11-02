@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KsriKR0jbPg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fofma\\Documents\\C# skola\\PragueParking2.0\\PragueParking.Data\\PragueParking.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fofma\\.nuget\\packages\\system.text.json\\9.0.10\\system.text.json.9.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
