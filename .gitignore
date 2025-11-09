@@ -1,0 +1,351 @@
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]ogs/
+
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.VC.opendb
+
+# Visual Studio 2015+ cache/options
+.vsconfig
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.[Rr]e[Ss]harper.*
+
+# Visual Studio Code
+.vscode/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# Benchmark Results
+BenchmarkDotNet.Artifacts/
+
+# .NET Core
+*.AppBundle
+
+# Files built by Visual Studio
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+
+# Chutzpah Test files
+_Chutzpah*
+
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# TFS 2012 Local Workspace
+$tf/
+
+# Guidance Automation Toolkit
+*.gpState
+
+# ReSharper
+*.[Rr]e[Ss]harper
+*.[Rr]e[Ss]harper.*
+*.[Rr]e[Ss]harper[Cc]ache
+[Rr]e[Ss]harper[Ee]lement[Cc]ache.b5
+[Rr]e[Ss]harper[Ff]ile[Cc]ache.Map
+[Rr]e[Ss]harper[Ff]ile[Cc]ache.Reduce
+[Rr]e[Ss]harper[Ff]ile[Cc]ache.Without.Index
+[Rr]e[Ss]harper[Oo]bject[Cc]ache
+
+# TeamCity
+_TeamCity*
+
+# DotCover
+*.dotCover
+
+# AxoCover
+.axoCover/*
+!.axoCover/settings.json
+
+# Coverlet
+coverage.json
+coverage.info
+[Ll]cov*.info
+
+# NCrunch
+_NCrunch_*
+.*ncrunch*
+*.[Cc]ache
+.cruncher
+.DS_Store
+
+# CodeRush
+.CodeRush/
+
+# NUnit
+*.nupkg
+[Tt]est[Rr]esults/*
+[Tt]est[Rr]esults*/**/*
+
+# .NET
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+cs.rsp
+*.builds
+*.generated.*.cs
+*.[Mm]erged.*.xml
+[Pp]ackages/
+[Pp]ackage[Rr]estore.[Ll]og
+[Pp]rofileDataCollector/
+[Pp]ublish/
+[Rr]elease/
+[Rr]eleases/
+.coverage
+.coveragexml
+[Tt]emporary[Tt]est[Ff]iles/
+[Tt]estResults/
+[Tt]est[Rr]esults/*
+[Tt]est[Rr]esults*/**/*
+*.trx
+
+# BenchmarkDotNet
+BenchmarkDotNet.Artifacts/
+*BenchmarkDotNet.Artifacts*/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# EF Core Migration
+Migrations/
+
+# OrmLite
+OrmLite.*.dll
+
+# Others
+*.VC.db
+*.VC.VC.opendb
+.vs/
+.idea/
+.vscode/
+*.userprefs
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+.cache/
+.sass-cache/
+.rbx/
+vendor/bundle/
+.env
+.venv
+env/
+venv/
+.python-version
+.ruby-version
+.node-version
+.nvmrc
+.npmrc
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+dist-*
+publish/
+generated/
+Generated/
+.generated/
+*.g.cs
+*.g.i.cs
+Generated\Files\
+generated-code\
+Generated\Files\
+.factorypath
+.apt_generated
+.classpath
+.project
+.settings/
+.springBeans
+.sts4-cache
+.wtpmodules
+.metadata/
+.metadata/.plugins/
+.metadata/.log
+.recommenders
+nbproject/
+nbbuild/
+nbdist/
+nbactions.xml
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+.fxcop
+Syncfusion.Licenses
+.sonarqube/
+SonarQube.Analysis.xml
+.sonarqube/
+.sonar/
+.scannerwork/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonarqube/
+.sonar/
+.sonar...... (detta är en väldigt lång standard .gitignore för .NET)
+# Slut på standard .NET-delen, börja på projekt-specifika ignorer
+# Ignorera Visual Studio Code's .vscode-mapp (om du använder VS Code)
+.vscode/
+
+# Ignorera Visual Studio's .vs-mapp (mycket viktigt!)
+.vs/
+
+# Ignorera bygg-output (bin och obj) för alla projekt
+**/[Bb]in/
+**/[Oo]bj/
+
+# Ignorera eventuella lokala konfigurationsfiler som inte ska in i repo
+# Om du har en lokal config.json som du inte vill ladda upp
+# config.json
+
+# Om du har en lokal parking_data.json som du inte vill ladda upp (även om uppgiften säger att den *ska* sparas/laddas och *kan* finnas i repo som exempeldata/testdata)
+# parking_data.json
+
+# --- END OF FILE ---

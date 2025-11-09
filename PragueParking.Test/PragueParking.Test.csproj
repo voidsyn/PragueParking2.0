@@ -14,6 +14,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\PragueParking.Core\PragueParking.Core.csproj" />
+    <ProjectReference Include="..\PragueParking.Data\PragueParking.Data.csproj" />
   </ItemGroup>
 
   <ItemGroup>

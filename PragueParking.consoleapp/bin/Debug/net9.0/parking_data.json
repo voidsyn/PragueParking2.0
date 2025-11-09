@@ -3,24 +3,12 @@
     {
       "SpotNumber": 0,
       "MaxSize": 4,
-      "ParkedVehicles": [
-        {
-          "Type": "CAR",
-          "RegistrationNumber": "BIL1",
-          "CheckInTime": "2025-11-02T10:57:57.4927852+01:00"
-        }
-      ]
+      "ParkedVehicles": []
     },
     {
       "SpotNumber": 1,
       "MaxSize": 4,
-      "ParkedVehicles": [
-        {
-          "Type": "CAR",
-          "RegistrationNumber": "BIL2",
-          "CheckInTime": "2025-11-02T10:58:09.1053775+01:00"
-        }
-      ]
+      "ParkedVehicles": []
     },
     {
       "SpotNumber": 2,
@@ -135,18 +123,7 @@
     {
       "SpotNumber": 24,
       "MaxSize": 4,
-      "ParkedVehicles": [
-        {
-          "Type": "MC",
-          "RegistrationNumber": "MC1",
-          "CheckInTime": "2025-11-02T10:58:13.7852203+01:00"
-        },
-        {
-          "Type": "MC",
-          "RegistrationNumber": "MC2",
-          "CheckInTime": "2025-11-02T10:58:17.8951516+01:00"
-        }
-      ]
+      "ParkedVehicles": []
     },
     {
       "SpotNumber": 25,

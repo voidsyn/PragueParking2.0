@@ -9,3 +9,15 @@ C:\Users\fofma\Documents\C# skola\PragueParkingSolution\PragueParking.Core\obj\D
 C:\Users\fofma\Documents\C# skola\PragueParkingSolution\PragueParking.Core\obj\Debug\net9.0\refint\PragueParking.Core.dll
 C:\Users\fofma\Documents\C# skola\PragueParkingSolution\PragueParking.Core\obj\Debug\net9.0\PragueParking.Core.pdb
 C:\Users\fofma\Documents\C# skola\PragueParkingSolution\PragueParking.Core\obj\Debug\net9.0\ref\PragueParking.Core.dll
+C:\Users\fofma\Documents\C# skola\PragueParking2.0\PragueParking.Core\bin\Debug\net9.0\PragueParking.Core.deps.json
+C:\Users\fofma\Documents\C# skola\PragueParking2.0\PragueParking.Core\bin\Debug\net9.0\PragueParking.Core.dll
+C:\Users\fofma\Documents\C# skola\PragueParking2.0\PragueParking.Core\bin\Debug\net9.0\PragueParking.Core.pdb
+C:\Users\fofma\Documents\C# skola\PragueParking2.0\PragueParking.Core\obj\Debug\net9.0\PragueParking.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fofma\Documents\C# skola\PragueParking2.0\PragueParking.Core\obj\Debug\net9.0\PragueParking.Core.AssemblyInfoInputs.cache
+C:\Users\fofma\Documents\C# skola\PragueParking2.0\PragueParking.Core\obj\Debug\net9.0\PragueParking.Core.AssemblyInfo.cs
+C:\Users\fofma\Documents\C# skola\PragueParking2.0\PragueParking.Core\obj\Debug\net9.0\PragueParking.Core.csproj.CoreCompileInputs.cache
+C:\Users\fofma\Documents\C# skola\PragueParking2.0\PragueParking.Core\obj\Debug\net9.0\PragueParking.Core.sourcelink.json
+C:\Users\fofma\Documents\C# skola\PragueParking2.0\PragueParking.Core\obj\Debug\net9.0\PragueParking.Core.dll
+C:\Users\fofma\Documents\C# skola\PragueParking2.0\PragueParking.Core\obj\Debug\net9.0\refint\PragueParking.Core.dll
+C:\Users\fofma\Documents\C# skola\PragueParking2.0\PragueParking.Core\obj\Debug\net9.0\PragueParking.Core.pdb
+C:\Users\fofma\Documents\C# skola\PragueParking2.0\PragueParking.Core\obj\Debug\net9.0\ref\PragueParking.Core.dll

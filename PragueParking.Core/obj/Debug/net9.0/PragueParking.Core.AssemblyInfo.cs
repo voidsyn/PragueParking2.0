@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PragueParking.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7783696493e27f988faec854451a94f8233eb3e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("PragueParking.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PragueParking.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
