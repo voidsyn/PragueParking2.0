@@ -329,23 +329,6 @@ SonarQube.Analysis.xml
 .sonar/
 .sonarqube/
 .sonar/
-.sonar...... (detta är en väldigt lång standard .gitignore för .NET)
-# Slut på standard .NET-delen, börja på projekt-specifika ignorer
-# Ignorera Visual Studio Code's .vscode-mapp (om du använder VS Code)
+.sonar...... 
 .vscode/
-
-# Ignorera Visual Studio's .vs-mapp (mycket viktigt!)
 .vs/
-
-# Ignorera bygg-output (bin och obj) för alla projekt
-**/[Bb]in/
-**/[Oo]bj/
-
-# Ignorera eventuella lokala konfigurationsfiler som inte ska in i repo
-# Om du har en lokal config.json som du inte vill ladda upp
-# config.json
-
-# Om du har en lokal parking_data.json som du inte vill ladda upp (även om uppgiften säger att den *ska* sparas/laddas och *kan* finnas i repo som exempeldata/testdata)
-# parking_data.json
-
-# --- END OF FILE ---
